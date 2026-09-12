@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./YAxis-e7rUf05n.js";import{ft as r,rt as i}from"./index-DIBMC5K2.js";var a=i({chartName:`LineChart`,GraphicalChild:t,axisComponents:[{axisType:`xAxis`,AxisComp:e},{axisType:`yAxis`,AxisComp:n}],formatAxisMap:r});export{a as t};

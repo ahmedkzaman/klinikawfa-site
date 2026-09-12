@@ -1,0 +1,1 @@
+var e=[`admin`,`special_admin`,`doctor_admin`];function t(e){return e===`website_editor`}function n(n){return t(n)||e.includes(n)}function r(e){return n(e)}export{n,r as t};

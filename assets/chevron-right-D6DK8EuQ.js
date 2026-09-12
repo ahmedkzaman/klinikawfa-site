@@ -1,0 +1,1 @@
+import{n as e}from"./utils-DCAmfsnb.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};

@@ -1,0 +1,1 @@
+import{i as e}from"./utils-DCAmfsnb.js";import{n as t,t as n}from"./ResourceWorkspace-CP1pUUuo.js";var r=e(),i=()=>(0,r.jsx)(t,{type:`team_member`}),a=()=>(0,r.jsx)(n,{type:`team_member`});export{i as TeamEditorList,a as TeamWebsiteEditor};

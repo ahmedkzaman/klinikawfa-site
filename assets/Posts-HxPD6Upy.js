@@ -1,0 +1,1 @@
+import{i as e}from"./utils-DCAmfsnb.js";import{n as t,t as n}from"./ResourceWorkspace-CP1pUUuo.js";var r=e(),i=()=>(0,r.jsx)(t,{type:`blog_post`}),a=()=>(0,r.jsx)(n,{type:`blog_post`});export{i as PostsEditorList,a as PostsWebsiteEditor};

@@ -1,0 +1,1 @@
+import{i as e}from"./utils-DCAmfsnb.js";import{n as t,t as n}from"./ResourceWorkspace-CP1pUUuo.js";var r=e(),i=()=>(0,r.jsx)(t,{type:`review`}),a=()=>(0,r.jsx)(n,{type:`review`});export{a as ReviewWebsiteEditor,i as ReviewsEditorList};
