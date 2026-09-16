@@ -1,0 +1,1 @@
+import{N as e}from"./index-CprTaXJa.js";function t(t){return e(t,Date.now())}export{t};

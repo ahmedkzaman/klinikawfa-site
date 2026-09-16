@@ -1,0 +1,1 @@
+import{P as e}from"./index-CprTaXJa.js";function t(t,n){let r=e(t),i=e(n),a=r.getFullYear()-i.getFullYear(),o=r.getMonth()-i.getMonth();return a*12+o}export{t};

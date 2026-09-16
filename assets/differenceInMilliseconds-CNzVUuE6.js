@@ -1,0 +1,1 @@
+import{P as e}from"./index-CprTaXJa.js";function t(t,n){return e(t)-+e(n)}export{t};

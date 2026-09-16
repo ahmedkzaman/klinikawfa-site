@@ -1,0 +1,1 @@
+import{N as e,P as t}from"./index-CprTaXJa.js";function n(n,r){let i=t(n);return isNaN(r)?e(n,NaN):(r&&i.setDate(i.getDate()+r),i)}export{n as t};

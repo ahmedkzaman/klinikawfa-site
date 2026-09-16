@@ -1,0 +1,1 @@
+import{P as e}from"./index-CprTaXJa.js";function t(t,n){let r=e(t),i=e(n),a=r.getTime()-i.getTime();return a<0?-1:a>0?1:a}export{t};

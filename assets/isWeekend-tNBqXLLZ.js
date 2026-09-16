@@ -1,0 +1,1 @@
+import{P as e}from"./index-CprTaXJa.js";function t(t){let n=e(t).getDay();return n===0||n===6}export{t};

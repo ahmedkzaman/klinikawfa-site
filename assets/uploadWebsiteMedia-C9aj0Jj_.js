@@ -1,0 +1,1 @@
+import{uploadAndCreateMedia as e}from"./api-5RSqYfWG.js";async function t(t,n){return(await e(t,n)).publicUrl}export{t as uploadWebsiteMedia};

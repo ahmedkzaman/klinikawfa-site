@@ -1,0 +1,1 @@
+import{P as e}from"./index-CprTaXJa.js";function t(t){return e(t).getDay()}export{t};
