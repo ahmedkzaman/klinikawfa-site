@@ -1,0 +1,1 @@
+import{P as e}from"./index-DH9lT2gA.js";function t(t,n){return e(t)-+e(n)}export{t};

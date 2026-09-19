@@ -1,0 +1,1 @@
+import{P as e}from"./index-DH9lT2gA.js";function t(t){let n=e(t);return n.setHours(23,59,59,999),n}export{t};

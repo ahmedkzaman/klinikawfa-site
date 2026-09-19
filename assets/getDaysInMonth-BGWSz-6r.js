@@ -1,0 +1,1 @@
+import{N as e,P as t}from"./index-DH9lT2gA.js";function n(n){let r=t(n),i=r.getFullYear(),a=r.getMonth(),o=e(n,0);return o.setFullYear(i,a+1,0),o.setHours(0,0,0,0),o.getDate()}export{n as t};

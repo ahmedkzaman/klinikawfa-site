@@ -1,0 +1,1 @@
+import{P as e}from"./index-DH9lT2gA.js";function t(t,n){let r=e(t.start),i=e(t.end),a=+r>+i,o=a?+r:+i,s=a?i:r;s.setHours(0,0,0,0);let c=n?.step??1;if(!c)return[];c<0&&(c=-c,a=!a);let l=[];for(;+s<=o;)l.push(e(s)),s.setDate(s.getDate()+c),s.setHours(0,0,0,0);return a?l.reverse():l}export{t};

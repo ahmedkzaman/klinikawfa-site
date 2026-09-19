@@ -1,0 +1,1 @@
+import{P as e}from"./index-DH9lT2gA.js";function t(t){let n=e(t).getDay();return n===0||n===6}export{t};
