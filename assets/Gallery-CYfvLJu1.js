@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CtMZ-PAS.js";import{n as t,t as n}from"./ResourceWorkspace-Cpr8gyeO.js";var r=e(),i=()=>(0,r.jsx)(t,{type:`gallery_image`}),a=()=>(0,r.jsx)(n,{type:`gallery_image`});export{i as GalleryEditorList,a as GalleryWebsiteEditor};

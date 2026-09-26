@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t){let n=e(t);return n.setDate(1),n.setHours(0,0,0,0),n}export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CtMZ-PAS.js";import{n as t,t as n}from"./ResourceWorkspace-Cpr8gyeO.js";var r=e(),i=()=>(0,r.jsx)(t,{type:`blog_post`}),a=()=>(0,r.jsx)(n,{type:`blog_post`});export{i as BlogEditorList,a as BlogWebsiteEditor};
