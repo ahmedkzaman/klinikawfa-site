@@ -1,0 +1,1 @@
+import{t as e}from"./format-D2hUAqu2.js";var t=(t,n)=>{if(n==null||t==null)return`—`;try{let r=typeof t==`string`?new Date(t):t;return Number.isNaN(r.getTime())?`—`:`${e(r,`yyMMdd`)}-${String(n).padStart(2,`0`)}`}catch{return`—`}};export{t};
