@@ -1,0 +1,1 @@
+import{E as e}from"./format-D2hUAqu2.js";function t(t){return e(t,Date.now())}export{t};

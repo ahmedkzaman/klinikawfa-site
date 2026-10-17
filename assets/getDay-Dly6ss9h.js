@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t){return e(t).getDay()}export{t};
