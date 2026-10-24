@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t,n){return e(t)-+e(n)}export{t};
