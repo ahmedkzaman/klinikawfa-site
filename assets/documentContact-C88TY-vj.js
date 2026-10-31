@@ -1,0 +1,1 @@
+var e=`Talian tetap`;function t(t){let n=[],r=t.phone?.trim(),i=t.phone_landline?.trim();return r&&n.push(`Tel: ${r}`),i&&n.push(`${e}: ${i}`),n}export{t as n,e as t};

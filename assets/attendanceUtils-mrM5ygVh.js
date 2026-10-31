@@ -1,0 +1,1 @@
+function e(e){if(e.logical_work_date)return e.logical_work_date;let t=new Date(e.punch_time);return`${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,`0`)}-${String(t.getDate()).padStart(2,`0`)}`}export{e as t};

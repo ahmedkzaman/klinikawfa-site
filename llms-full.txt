@@ -1,0 +1,62 @@
+# Klinik Awfa — maklumat penuh
+
+> Fakta klinik dan setiap halaman awam, dalam satu berkas teks. Untuk pembantu AI dan enjin carian.
+> Ringkasan ringkas: https://klinikawfa.com/llms.txt
+
+## Fakta klinik
+
+- Nama: Klinik Awfa
+- Alamat: B2 & B4, Jalan KS 1/12, KotaSAS Avenue, 25200 Kuantan, Pahang
+- Telefon: +60 18-252 3531
+- Talian tetap: +60 9-575 1312
+- Koordinat: 3.871944656053272, 103.27734116870465
+- Peta: https://maps.google.com/?q=3.871944656053272,103.27734116870465
+- Facebook: https://www.facebook.com/KlinikAwfaKotasas/
+- Entiti berdaftar: Kumpulan Ikram Health Terengganu Sdn Bhd, 201901025833 (1335162-W)
+- Waktu operasi: Setiap hari, 8 pagi – 12 malam (16 jam sehari). Tidak beroperasi 24 jam.
+- Kawasan dilayan: Kuantan, Pahang
+
+## Semua halaman awam
+
+- [Klinik Awfa | Klinik di KotaSAS, Kuantan](https://klinikawfa.com/): Klinik Awfa di KotaSAS, Kuantan.
+- [Temujanji | Klinik Awfa](https://klinikawfa.com/appointment/): Maklumat temujanji Klinik Awfa.
+- [Doktor Bertugas | Klinik Awfa](https://klinikawfa.com/doctor-on-duty/): Maklumat doktor bertugas di Klinik Awfa.
+- [Doktor | Klinik Awfa](https://klinikawfa.com/doctors/): Maklumat doktor Klinik Awfa.
+- [Galeri | Klinik Awfa](https://klinikawfa.com/gallery/): Galeri Klinik Awfa.
+- [Tip Kesihatan | Klinik Awfa](https://klinikawfa.com/health-tips/): Tip kesihatan daripada Klinik Awfa.
+- [Kurus Bukan Sekadar Angka: Kisah Benar Tentang Perjuangan, Ubat, dan Erti 'Remission'](https://klinikawfa.com/health-tips/beyond-the-scale-a-real-story-of-struggles-weight-loss-meds-and-finding-true-health/): Ramai anggap ubat kurus adalah 'shortcut', tapi tanpa perubahan gaya hidup, berat badan mudah naik semula. Ikuti kisah benar pesakit kami.
+- [Boleh Ke Makan Buah? Dilema Manis Buat Ibu Ayah Tersayang](https://klinikawfa.com/health-tips/can-i-still-enjoy-fruit-a-heartfelt-guide-for-our-beloved-seniors-with-diabetes/): Jangan takut dengan buah! Kami kongsikan cara pesakit diabetes boleh menikmati kemanisan buah tanpa risau tentang lonjakan gula darah.
+- [Berapa Biji Telur Sehari? Tak Perlu Ragu Lagi Untuk Hidangan Keluarga Anda](https://klinikawfa.com/health-tips/how-many-eggs-a-day-no-more-doubts-for-your-familys-mealtime/): Masih risau nak makan telur sebab kolesterol? Ketahui mengapa telur sebenarnya 'superfood' terbaik untuk setiap ahli keluarga anda.
+- [Khatan Kanak-Kanak Kuantan | Klinik Awfa KotaSAS](https://klinikawfa.com/health-tips/khatan-kanak-kanak-kuantan/): Perkhidmatan khatan kanak-kanak di Klinik Awfa KotaSAS, Kuantan dengan pilihan teknik mengikut kesesuaian dan penjagaan selepas bersunat.
+- [Nak Sunat Di Kuantan? | Klinik Awfa](https://klinikawfa.com/health-tips/klinik-sunat-kotasas-kuantan/): Cari klinik sunat di KotaSAS, Kuantan? Klinik Awfa menyediakan khatan kanak-kanak dengan pemeriksaan doktor dan penjagaan selepas prosedur.
+- [Bukan Sekadar Surat Rujukan: Mengapa Kami Mahu Berikan Yang Terbaik Untuk Anda di Peringkat Awal](https://klinikawfa.com/health-tips/more-than-just-a-referral-why-we-want-to-give-you-our-best-care-at-the-frontline/): Fahami mengapa rujukan terus ke pakar bagi demam biasa mungkin bukan jalan terbaik untuk kesihatan anda jangka panjang.
+- [Penjagaan Selepas Khatan Kanak-Kanak | Klinik Awfa Kuantan](https://klinikawfa.com/health-tips/penjagaan-selepas-khatan-kanak-kanak/): Bagaimana menjaga anak selepas bersunat? Ketahui perkara asas untuk dipantau selepas khatan dan bila anak perlu diperiksa doktor.
+- [Promo Khatan Kuantan + FREE Seluar Khatan | Klinik Awfa](https://klinikawfa.com/health-tips/promo-khatan-free-seluar-kuantan/): Bersunat di Klinik Awfa KotaSAS dan dapatkan FREE seluar khatan untuk promosi terpilih. Semak slot khatan dan promosi semasa.
+- [Promo Sunat Kuantan + FREE Hot Wheels | Klinik Awfa](https://klinikawfa.com/health-tips/promo-sunat-free-hot-wheels-kuantan/): Hero kecil berani bersunat? Semak promosi khatan Klinik Awfa KotaSAS dengan FREE Hot Wheels untuk promosi terpilih.
+- [Gula & Kanser: Adakah Kita Sedang 'Menyakiti' Orang Tersayang Dengan Mitos Ini?](https://klinikawfa.com/health-tips/sugar-cancer-are-we-unknowingly-hurting-our-loved-ones-with-this-myth/): Adakah benar gula 'memberi makan' kepada kanser? Fahami mengapa berpantang gula secara ekstrem boleh membahayakan pesakit.
+- [Sunat Clamp Kuantan | Klinik Awfa KotaSAS](https://klinikawfa.com/health-tips/sunat-clamp-kuantan/): Berminat dengan sunat Clamp di Kuantan? Dapatkan pemeriksaan doktor di Klinik Awfa KotaSAS untuk menentukan kesesuaian kaedah khatan anak.
+- [Sunat Cuti Sekolah Kuantan | Klinik Awfa KotaSAS](https://klinikawfa.com/health-tips/sunat-cuti-sekolah-kuantan/): Rancang khatan anak semasa cuti sekolah di Klinik Awfa KotaSAS, Kuantan. Tempah lebih awal dan dapatkan penerangan penjagaan selepas bersunat.
+- [Sunat Diathermy Kuantan | Klinik Awfa KotaSAS](https://klinikawfa.com/health-tips/sunat-diathermy-kuantan/): Khatan menggunakan teknik diathermy/cautery di Klinik Awfa KotaSAS, Kuantan dengan pemeriksaan doktor dan jahitan apabila sesuai.
+- [Apabila Kasih Sayang Menjadi Keutamaan: Dilema Menjaga Ibu Bapa yang Terlantar di Rumah](https://klinikawfa.com/health-tips/when-love-becomes-the-priority-the-dilemma-of-caring-for-bedridden-parents-at-home/): Menjaga ibu bapa yang terlantar bukan mudah. Kami berkongsi kisah benar tentang bila rawatan di rumah perlu bertukar menjadi rujukan ke hospital.
+- [Bila Paru-Paru Mula 'Bercerita': Mengapa Kita Tak Boleh Tunggu Untuk Rawatan Nebuliser](https://klinikawfa.com/health-tips/when-the-lungs-start-to-whisper-why-we-shouldnt-wait-for-nebuliser-treatment/): Paru-paru tak pernah menipu. Jangan tunggu sehingga sesak nafas menjadi teruk baru mencari bantuan. Ketahui bagaimana nebuliser membantu.
+- [Bila Anak Demam: Kenapa Antibiotik Bukan Sentiasa Penawarnya?](https://klinikawfa.com/health-tips/when-your-little-one-has-a-fever-why-antibiotics-arent-always-the-answer/): Melihat anak kecil sakit memang meruntun jiwa, tapi adakah antibiotik jawapannya? Ketahui mengapa virus seperti RSV memerlukan penjagaan rapi.
+- [Bila Si Kecil Tiba-Tiba Layu: Memahami Influenza A Bukan Sekadar Demam Biasa](https://klinikawfa.com/health-tips/when-your-little-one-suddenly-wilts-understanding-why-influenza-a-is-more-than-just-a-fever/): Bila anak demam tinggi dan tiba-tiba layu, ia mungkin bukan sekadar demam biasa. Fahami mengapa Influenza A memerlukan tindakan pantas.
+- [Perkhidmatan Klinik | Klinik Awfa](https://klinikawfa.com/services/): Maklumat perkhidmatan Klinik Awfa di KotaSAS, Kuantan.
+- [Program Berat Badan Ideal | Klinik Awfa](https://klinikawfa.com/services/kur/): Program pengurusan berat badan di Klinik Awfa, KotaSAS, Kuantan, dengan pilihan dengan atau tanpa bantuan ubat dan pemantauan berterusan.
+- [Minor Surgery dan Rawatan Kutil di Kuantan | Klinik Awfa](https://klinikawfa.com/services/minor-surgery-kutil-kuantan/): Penilaian untuk kutil dan pembedahan kecil di Klinik Awfa, KotaSAS, Kuantan.
+- [Pemeriksaan Kesihatan | Klinik Awfa](https://klinikawfa.com/services/pemeriksaan-kesihatan/): Maklumat pemeriksaan kesihatan di Klinik Awfa, KotaSAS, Kuantan.
+- [Pengurusan Berat Badan di Kuantan | Klinik Awfa](https://klinikawfa.com/services/pengurusan-berat-badan-kuantan/): Pengurusan berat badan berasaskan penilaian doktor di Klinik Awfa, KotaSAS, Kuantan.
+- [Prosedur Kecil | Klinik Awfa](https://klinikawfa.com/services/prosedur-kecil/): Maklumat prosedur kecil di Klinik Awfa, KotaSAS, Kuantan.
+- [Rawatan Telinga di Kuantan | Klinik Awfa](https://klinikawfa.com/services/rawatan-telinga-kuantan/): Penilaian untuk masalah telinga di Klinik Awfa, KotaSAS, Kuantan.
+- [Rawatan Telinga & Ear Microsuction di Kuantan | Klinik Awfa](https://klinikawfa.com/services/rawatan-telinga-microsuction-kuantan/): Rawatan telinga termasuk pemeriksaan dan ear microsuction di Klinik Awfa, KotaSAS, Kuantan untuk telinga tersumbat dan masalah pendengaran.
+- [Rawatan Umum | Klinik Awfa](https://klinikawfa.com/services/rawatan-umum/): Maklumat rawatan umum di Klinik Awfa, KotaSAS, Kuantan.
+- [Klinik Sunat Kuantan untuk Bayi, Kanak-kanak & Dewasa | Klinik Awfa](https://klinikawfa.com/services/sunat-kuantan/): Penilaian dan perkhidmatan sunat bayi, kanak-kanak dan dewasa di Klinik Awfa, KotaSAS, Kuantan, termasuk persediaan dan penjagaan selepas prosedur.
+- [Swab Test dan Pemeriksaan Demam di Kuantan | Klinik Awfa](https://klinikawfa.com/services/swab-test-demam-kuantan/): Pemeriksaan demam dan swab test mengikut penilaian doktor di Klinik Awfa, KotaSAS, Kuantan.
+- [Ujian RTK Swab 6-dalam-1 di Kuantan | Klinik Awfa](https://klinikawfa.com/services/ujian-swab-6-dalam-1-kuantan/): Ujian RTK Swab 6-dalam-1 di Klinik Awfa, KotaSAS untuk menyaring enam punca jangkitan pernafasan seperti influenza, COVID-19 dan RSV.
+- [Rawatan Zakar Buta / Phimosis di Kuantan | Klinik Awfa](https://klinikawfa.com/services/zakar-buta/): Penilaian doktor untuk kulit zakar terlalu ketat (phimosis) pada kanak-kanak di Klinik Awfa, KotaSAS, Kuantan.
+
+## Nota
+
+- Semua rawatan dan prosedur hanya dilakukan selepas penilaian doktor.
+- Harga dan ketersediaan ujian bergantung pada penilaian doktor; sahkan dengan klinik.
+- Halaman portal dalaman tidak disenaraikan kerana ia bukan kandungan awam.

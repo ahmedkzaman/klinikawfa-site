@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t){let n=e(t).getDay();return n===0||n===6}export{t};

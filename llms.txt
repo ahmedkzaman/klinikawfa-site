@@ -1,0 +1,53 @@
+# Klinik Awfa
+
+> Berkas ringkas untuk enjin carian dan pembantu AI: fakta klinik, perkhidmatan dan pautan utama.
+> Versi penuh: https://klinikawfa.com/llms-full.txt
+
+> Klinik keluarga di KotaSAS, Kuantan, Pahang. Rawatan umum dan penyakit akut, prosedur minor, pemeriksaan kesihatan, penjagaan telinga (microsuction), sunat dan pengurusan berat badan. Dibuka setiap hari, 8 pagi – 12 malam.
+
+Maklumat penuh: https://klinikawfa.com/
+
+## Maklumat klinik
+
+- Nama: Klinik Awfa
+- Alamat: B2 & B4, Jalan KS 1/12, KotaSAS Avenue, 25200 Kuantan, Pahang
+- Telefon: +60 18-252 3531
+- Talian tetap: +60 9-575 1312
+- WhatsApp: https://wa.me/60182523531
+- Waktu operasi: Setiap hari, 8 pagi – 12 malam (16 jam sehari)
+- Lokasi: https://maps.google.com/?q=3.871944656053272,103.27734116870465
+- Entiti berdaftar: Kumpulan Ikram Health Terengganu Sdn Bhd, 201901025833 (1335162-W)
+- Facebook: https://www.facebook.com/KlinikAwfaKotasas/
+- Halaman penuh untuk pembantu AI: https://klinikawfa.com/llms-full.txt
+
+## Halaman utama
+
+- [Utama](https://klinikawfa.com/): Gambaran perkhidmatan dan maklumat klinik.
+- [Perkhidmatan](https://klinikawfa.com/services/): Senarai penuh perkhidmatan yang disediakan.
+- [Doktor](https://klinikawfa.com/doctors/): Maklumat doktor Klinik Awfa.
+- [Doktor bertugas](https://klinikawfa.com/doctor-on-duty/): Jadual doktor bertugas.
+- [Temujanji](https://klinikawfa.com/appointment/): Cara menghubungi klinik untuk temujanji.
+- [Galeri](https://klinikawfa.com/gallery/): Gambar klinik.
+- [Tip kesihatan](https://klinikawfa.com/health-tips/): Artikel kesihatan untuk pesakit.
+
+## Perkhidmatan
+
+- [Rawatan umum & penyakit akut](https://klinikawfa.com/services/rawatan-umum/): Demam, batuk, selesema, sakit tekak, muntah, cirit-birit, sakit kepala dan masalah jangkitan harian bagi orang dewasa dan kanak-kanak.
+- [Prosedur minor & pembedahan kecil](https://klinikawfa.com/services/prosedur-kecil/): Penilaian dan prosedur kecil seperti pembuangan ketumbuhan kecil, kuku cengkam, jahitan luka dan pembuangan benda asing tertentu.
+- [Pemeriksaan kesihatan & pekerjaan](https://klinikawfa.com/services/pemeriksaan-kesihatan/): Pemeriksaan pra-pekerjaan, pemeriksaan berkala pekerja, pemeriksaan pelajar dan pengisian borang kesihatan majikan.
+- [Rawatan telinga](https://klinikawfa.com/services/rawatan-telinga-kuantan/): Penilaian sakit telinga, telinga tersumbat, tahi telinga dan pendengaran berkurang.
+- [Minor surgery & rawatan kutil](https://klinikawfa.com/services/minor-surgery-kutil-kuantan/): Penilaian kutil, benjolan kulit, sista kecil dan luka kecil.
+- [Swab test & rawatan demam](https://klinikawfa.com/services/swab-test-demam-kuantan/): Pemeriksaan demam dan ujian swab mengikut penilaian doktor.
+- [Pengurusan berat badan](https://klinikawfa.com/services/pengurusan-berat-badan-kuantan/): Penilaian doktor, matlamat realistik dan pemantauan berterusan.
+- [Sunat](https://klinikawfa.com/services/sunat-kuantan/): Penilaian dan perkhidmatan sunat bayi, kanak-kanak dan dewasa.
+- [Program berat badan ideal (KUR)](https://klinikawfa.com/services/kur/): Program pengurusan berat badan dengan atau tanpa bantuan ubat.
+- [Rawatan telinga & ear microsuction](https://klinikawfa.com/services/rawatan-telinga-microsuction-kuantan/): Pembersihan tahi telinga dan microsuction selepas penilaian doktor.
+- [Ujian RTK swab 6-dalam-1](https://klinikawfa.com/services/ujian-swab-6-dalam-1-kuantan/): Ujian pantas untuk enam punca jangkitan pernafasan.
+- [Rawatan zakar buta / phimosis](https://klinikawfa.com/services/zakar-buta/): Penilaian kulit zakar terlalu ketat pada kanak-kanak.
+
+## Nota
+
+- Semua rawatan dan prosedur hanya dilakukan selepas penilaian doktor. Maklumat di laman ini bersifat panduan umum dan bukan nasihat perubatan untuk kes individu.
+- Harga, ketersediaan ujian dan jenis sampel bergantung pada penilaian doktor dan boleh berubah; sahkan dengan klinik.
+- Klinik ini tidak beroperasi sepanjang masa. Waktu sebenar ialah 8 pagi – 12 malam, 16 jam sehari.
+- Halaman portal dalaman (admin, auth, clinic, editor, staff, locum-register, reset-password, video-call, tv) tidak disenaraikan kerana ia bukan kandungan awam.
