@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t,n){let r=e(t),i=e(n),a=r.getFullYear()-i.getFullYear(),o=r.getMonth()-i.getMonth();return a*12+o}export{t};

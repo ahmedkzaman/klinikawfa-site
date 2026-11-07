@@ -1,0 +1,1 @@
+function e(e){if(!e)return`Age: Unknown`;let t=new Date(e);if(isNaN(t.getTime()))return`Age: Unknown`;let n=new Date,r=n.getFullYear()-t.getFullYear(),i=n.getMonth()-t.getMonth();return n.getDate()<t.getDate()&&--i,i<0&&(--r,i+=12),r<0?`Age: Unknown`:r<1?`${Math.max(i,0)}m`:r<=3?`${r}y ${i}m`:`${r}y`}export{e as t};

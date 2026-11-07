@@ -1,0 +1,1 @@
+function e(e){return e.error?{rows:[],error:e.error.message??`Could not load this data.`}:{rows:e.data??[],error:null}}function t(e,t){return`Could not load ${e}. This is a loading problem, not an empty record. (${t})`}export{t as n,e as t};

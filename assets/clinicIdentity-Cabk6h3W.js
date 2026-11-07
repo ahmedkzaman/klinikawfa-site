@@ -1,0 +1,1 @@
+var e=e=>(e??``).trim();function t(t,n){let r=e(t),i=e(n);return!r&&!i?null:i?r?`${r} · Company No. ${i}`:`Company No. ${i}`:r}function n(t){return e(t.sst_number).length>0}export{n,t};

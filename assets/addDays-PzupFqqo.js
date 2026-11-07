@@ -1,0 +1,1 @@
+import{D as e,E as t}from"./format-D2hUAqu2.js";function n(n,r){let i=e(n);return isNaN(r)?t(n,NaN):(r&&i.setDate(i.getDate()+r),i)}export{n as t};

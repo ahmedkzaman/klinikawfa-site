@@ -1,0 +1,17 @@
+{
+  "name": "Klinik Awfa",
+  "short_name": "Klinik Awfa",
+  "description": "Klinik keluarga di KotaSAS, Kuantan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "https://nhjbqdiyptjqherdfbqk.supabase.co/storage/v1/object/public/clinic-assets/clinic-logo/logo-1778939184346.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

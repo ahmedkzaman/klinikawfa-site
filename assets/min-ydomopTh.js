@@ -1,0 +1,1 @@
+import{D as e}from"./format-D2hUAqu2.js";function t(t){let n;return t.forEach(function(t){let r=e(t);(n===void 0||n<r||isNaN(Number(r)))&&(n=r)}),n||new Date(NaN)}function n(t){let n;return t.forEach(t=>{let r=e(t);(!n||n>r||isNaN(+r))&&(n=r)}),n||new Date(NaN)}export{t as n,n as t};

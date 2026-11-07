@@ -1,0 +1,1 @@
+var e=new Set([`bin`,`binti`,`bt`,`bte`,`binte`,`a/l`,`a/p`,`al`,`el`,`d/o`,`s/o`,`v/o`]);function t(t){return t?t.toLocaleLowerCase().split(/(\s+)/).map((t,n)=>/^\s+$/.test(t)||n>0&&e.has(t)?t:t.charAt(0).toLocaleUpperCase()+t.slice(1)).join(``):``}function n(e){return(e??``).trim().toLocaleUpperCase()}export{n,t};
